@@ -1,26 +1,61 @@
-## About Me: 
 
-<div align="center">
-  <a href="https://github.com/jeniffermb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniffermb&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block", align="center"><br>
-  <img align="center" alt="Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="VsCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Anaconda" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<p align="left"> 
+  Olá, seja bem vindo(a)!<br><br>
+  Meu nome é Jeniffer, sou habitante de Porto Alegre - Rio Grande do Sul e bolsista pelo ProUni em Ciência da Computação na PUCRS. Atualmente focando em adquirir conhecimentos teóricos e práticos na área de dados, com o objetivo desenvolver carreira nesta área.<br><br>
+  Minha jornada profissionalmente em TI teve início em 2021, sendo monitora de graduação da disciplina de "Fundamentos de Programação" e após essa experiência, atuei o total de 1 ano como estagiária em empresas na área de dados, as quais desempenhei tarefas como: 
+  <br>✓ Análise de dados;
+  <br>✓ Realização do processo de ETL e pré processamento dos dados;
+  <br>✓ Programação de modelos multidimensionais;
+  <br>✓ Modelagem de tabelas para banco de dados relacional e criação de consultas/query SQL;
+  <br>✓ Coleta de requisitos e aplicação de regras de negócios;
+  <br>✓ Criação de dashboards;
+  <br>✓ Criação de apresentações de Power Point para gerar novos insights e participação em reuniões com clientes.<br><br>
+  Gosto de estar sempre aprendendo e evoluindo de forma constante. Acredito que "transformação" e "oportunidade" são duas palavras chaves no processo de evolução da sociedade, e quando se trata de tecnologia, com toda certeza o manuseio de artifícios tecnológicos feito por um profissional competente faz completamente a diferença no meio onde ele atua e na sociedade. 
+<br>--------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
 
-  
-</div>
-  
-  ##
- 
-<div align="center"> 
-  <a href="https://instagram.com/the_coding_effect" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jenifferrborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jeniffermborges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="http://t.me/jeniffermb" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">🌱 Conhecimentos: </p>
+
+<p align="left">
+  💻 Linguagens: Python, SQL, VBA, Java.
+</p>
+
+<p align="left">
+  💼 Ferramentas: Excel, Google Sheets, Power Point, Jupyter Notebook, Google Colab, Power Bi. 
+</p>
+
+<p align="left">
+  💼 Banco de Dados: MySQL, SQL Server, PostgreSQL, MongoDB. 
+</p>
+
+<p align="left">
+  📜 Outros Conhecimentos: Web Scraping, Linux, Metodologias Ágeis, Estatística, Gestão de Projetos. 
+</p>
+
+<p align="left">
+  📚 Áreas de Interesse: Análise de Dados, Ciência de Dados, Engenharia de Dados, Inteligência Artificial, Machine Learning, Automação de Processos, QA/Testes. 
+</p>
+
+<p align="left">
+  🦄 Hobbies: Tirar fotos, Jogar videogame, Escutar música, Aprender a tocar baixo, Escrever, Estudar Filosofia e Psicologia.
+</p>
+
+<p align="left">
+  💌 Entre em Contato: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jenifferrborges@gmail.com" alt="Gmail"/></a>
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeniffermborges/" alt="LinkedIn"/></a>
+
+  <a href="#" title="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=http://t.me/jeniffermb" alt="Telegram"/></a>
+
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/the_coding_effect" alt="Instagram"/></a>
+</p>
