@@ -1,4 +1,4 @@
-
+<img src="https://www.teclaminas.com.br/assets/img/server-img.png" alt="ilustração analisando dados" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Olá, seja bem vindo(a)!<br><br>
   Meu nome é Jeniffer, sou habitante de Porto Alegre - Rio Grande do Sul e bolsista pelo ProUni em Ciência da Computação na PUCRS. Atualmente focando em adquirir conhecimentos teóricos e práticos na área de dados, com o objetivo desenvolver carreira nesta área.<br><br>
@@ -47,15 +47,15 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:jenifferrborges@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jenifferrborges@gmail.com" alt="Gmail"/></a>
 
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/jeniffermborges/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeniffermborges/" alt="LinkedIn"/></a>
 
-  <a href="#" title="Telegram">
+  <a href="http://t.me/jeniffermb" title="Telegram">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=http://t.me/jeniffermb" alt="Telegram"/></a>
 
-  <a href="#" title="Instagram">
+  <a href="https://instagram.com/the_coding_effect" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/the_coding_effect" alt="Instagram"/></a>
 </p>
