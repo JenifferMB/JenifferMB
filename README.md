@@ -27,15 +27,15 @@
 </p>
 
 <p align="left">
-  💼 Banco de Dados: MySQL, SQL Server, PostgreSQL, MongoDB. 
+  📜 Banco de Dados: MySQL, SQL Server, PostgreSQL, MongoDB. 
 </p>
 
 <p align="left">
-  📜 Outros Conhecimentos: Web Scraping, Linux, Metodologias Ágeis, Estatística, Gestão de Projetos. 
+  🔎 Outros Conhecimentos: Web Scraping, Linux, Metodologias Ágeis, Estatística, Gestão de Projetos. 
 </p>
 
 <p align="left">
-  📚 Áreas de Interesse: Análise de Dados, Ciência de Dados, Engenharia de Dados, Inteligência Artificial, Machine Learning, Automação de Processos, QA/Testes. 
+  📚 Interesses: Análise de Dados, Ciência de Dados, Engenharia de Dados, Inteligência Artificial, Machine Learning, Automação de Processos, QA, Testes. 
 </p>
 
 <p align="left">
