@@ -11,7 +11,7 @@
   <br>✓ Criação de dashboards;
   <br>✓ Criação de apresentações de Power Point para gerar novos insights e participação em reuniões com clientes.<br><br>
   Gosto de estar sempre aprendendo e evoluindo de forma constante. Acredito que "transformação" e "oportunidade" são duas palavras chaves no processo de evolução da sociedade, e quando se trata de tecnologia, com toda certeza o manuseio de artifícios tecnológicos feito por um profissional competente faz completamente a diferença no meio onde ele atua e na sociedade. 
-<br>------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>--------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
