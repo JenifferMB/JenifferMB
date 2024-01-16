@@ -1,22 +1,7 @@
-<img src="https://www.teclaminas.com.br/assets/img/server-img.png" alt="ilustração analisando dados" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
-  Olá, seja bem vindo(a)!<br><br>
-  Meu nome é Jeniffer, sou habitante de Porto Alegre - Rio Grande do Sul e bolsista pelo ProUni em Ciência da Computação na PUCRS. Atualmente focando em adquirir conhecimentos teóricos e práticos na área de dados, com o objetivo desenvolver carreira nesta área.<br><br>
-  Minha jornada profissionalmente em TI teve início em 2021, sendo monitora de graduação da disciplina de "Fundamentos de Programação" e após essa experiência, atuei o total de 1 ano como estagiária em empresas na área de dados, as quais desempenhei tarefas como: 
-  <br>✓ Análise de dados;
-  <br>✓ Realização do processo de ETL e pré processamento dos dados;
-  <br>✓ Programação de modelos multidimensionais;
-  <br>✓ Modelagem de tabelas para banco de dados relacional e criação de consultas/query SQL;
-  <br>✓ Coleta de requisitos e aplicação de regras de negócios;
-  <br>✓ Criação de dashboards;
-  <br>✓ Criação de apresentações de Power Point para gerar novos insights e participação em reuniões com clientes.<br><br>
-  Gosto de estar sempre aprendendo e evoluindo de forma constante. Acredito que "transformação" e "oportunidade" são duas palavras chaves no processo de evolução da sociedade, e quando se trata de tecnologia, com toda certeza o manuseio de artifícios tecnológicos feito por um profissional competente faz completamente a diferença no meio onde ele atua e na sociedade. 
-<br>-------------------------------------------------------------------------------------------------------------------------------------------------------
-</p>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">🌱 Conhecimentos: </p>
+<p align="left">⭐ About me: Meu nome é Jeniffer, sou habitante de Porto Alegre - Rio Grande do Sul e bolsista pelo ProUni em Ciência da Computação na PUCRS. Atualmente focando em adquirir conhecimentos teóricos e práticos na área de dados, com o objetivo desenvolver carreira nesta área. 
+</p>
 
 <p align="left">
   💻 Linguagens: Python, SQL, VBA, Java.
@@ -31,7 +16,11 @@
 </p>
 
 <p align="left">
-  🔎 Outros Conhecimentos: Web Scraping, Linux, Metodologias Ágeis, Estatística, Gestão de Projetos. 
+  🔎 Outros Conhecimentos: Web Scraping, Linux, Metodologias Ágeis, Criação de Dashboards, Estatística, Gestão de Projetos. 
+</p>
+
+<p align="left">
+  📃 Idiomas: Português (Nativo), Inglês (Intermediário/Avançado), Espanhol (Básico). 
 </p>
 
 <p align="left">
