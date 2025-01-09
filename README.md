@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">⭐ About me: Meu nome é Jeniffer, sou habitante de Porto Alegre - Rio Grande do Sul e bolsista pelo ProUni em Ciência da Computação na PUCRS. Atualmente focando em adquirir conhecimentos teóricos e práticos na área de dados, com o objetivo desenvolver carreira nesta área. 
+<p align="left">⭐ About me: Meu nome é Jeniffer, sou habitante de Porto Alegre - Rio Grande do Sul e bolsista pelo ProUni em Ciência da Computação na PUCRS. Atualmente focando em adquirir conhecimentos teóricos e práticos na área de dados, com o objetivo desenvolver carreira nesta área.  
 </p>
 
 <p align="left">
-  💻 Linguagens: Python, SQL, VBA, Java.
+  💻 Linguagens: Python, SQL, VBA, Java, Javascript. 
 </p>
 
 <p align="left">
-  💼 Ferramentas: Excel, Google Sheets, Power Point, Jupyter Notebook, Google Colab, Power Bi. 
+  💼 Ferramentas: Excel, Google Sheets, Power Point, Power BI, Jupyter Notebook, Google Colab, Docker, AWS (S3, SQS, Lambda, IAM).  
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  🔎 Outros Conhecimentos: Web Scraping, Linux, Metodologias Ágeis, Criação de Dashboards, Estatística, Gestão de Projetos. 
+  🔎 Outros Conhecimentos: Web Scraping, Web Crawler, Linux, Metodologias Ágeis, Criação de Dashboards, Estatística, Gestão de Projetos, Modelagem de Dados - Modelagem Relacional e Dimensional. 
 </p>
 
 <p align="left">
@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📚 Interesses: Análise de Dados, Ciência de Dados, Engenharia de Dados, Inteligência Artificial, Machine Learning, Automação de Processos, QA, Testes. 
+  📚 Interesses: Análise de Dados, Ciência de Dados, Engenharia de Dados, Inteligência Artificial, Machine Learning, Automação de Processos, Web Scraping, QA, Testes. 
 </p>
 
 <p align="left">
